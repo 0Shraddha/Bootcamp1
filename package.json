@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp1",
+  "version": "1.0.0",
+  "description": "\"It is a trial",
+  "main": "entry.js",
+  "scripts": {
+    "start": "electron .",
+    "winx64": "electron-builder -w --x64"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0Shraddha/Bootcamp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0Shraddha/Bootcamp1/issues"
+  },
+  "homepage": "https://github.com/0Shraddha/Bootcamp1#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^16.0.5",
+    "electron-builder": "^22.14.5"
+  }
+}
